@@ -42,8 +42,6 @@ But the spot is not a flag. As you can see there is a small bandwidth graph on t
 But! The sound quality so suck, I just hear the only "The Flag is". and I can't hear the flag. 
 You Can here flag on this file. 
 
-[flag.mp3](https://github.com/Dobob1022/CTF/blob/main/2021/Dawg CTF 2021/Tuning In/Picture_Sound/flag.mp3)
-
-
+https://github.com/Dobob1022/CTF/blob/main/2021/Dawg%20CTF%202021/Tuning%20In/Picture_Sound/flag.mp3
 
 That was so close...
