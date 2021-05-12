@@ -41,9 +41,12 @@ But the every spot is not a flag. As you can see there is few peak point in here
 
 This challenge have hint about modulation, "FM" but SDR have 2 types of FM demodulation, NFM and WFM.
 
-NFM is Narrow band FM, WFM is Wide band FM. but WFM have wide bandwidth, So WFM is not for this challenge. Then I use NFM to find the flag sound.
+NFM is Narrow band FM, WFM is Wide band FM. but WFM have wide bandwidth, So WFM is not suitable on this Challenge. So I use NFM to find the flag sound with narrow bandwidth. 
+
+Finally I find the flag station frequency, it's 104.500Mhz(The Frequency will different Depend on your sampling rate)
 
 But! The sound quality so suck, I just hear the only "The Flag is". and I can't hear the flag. 
 You Can here flag on this file. 
 
 https://github.com/Dobob1022/CTF/blob/main/2021/Dawg%20CTF%202021/Tuning%20In/Picture_Sound/flag.mp3
+
