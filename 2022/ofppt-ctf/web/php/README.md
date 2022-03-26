@@ -1,10 +1,10 @@
-##php
-#####481
+## php
+##### 481
 ### Challage
 This website is broken; it shows its php source code. Can you find a way to read the flag.
 No scanners needed for this challenge!
 
-####Link
+#### Link
 http://143.198.224.219:20000
 
 ---

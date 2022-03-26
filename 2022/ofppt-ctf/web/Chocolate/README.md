@@ -1,5 +1,5 @@
 ## Chocolate
-#####400
+##### 400
 ### Challange
 
 My friend is only willing to eat chocolate. Any other food he rejects.
