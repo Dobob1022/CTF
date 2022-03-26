@@ -57,25 +57,25 @@ https://github.com/spaze/hashes/blob/master/sha1.md
 
 there is a lot's of magic hash in here. so you can using one of hash from the list.
 
-So i trying to use ```aaroZmOk```
+So i trying to use ``` aaroZmOk ```
 
 This thing can bypass the HASH.
 
 And the method is get, so you need to add 
 
-```?hash="magichash"```
+``` ?hash="magichash" ```
 
 Behind of the website address.
 
-```?hash=aaroZmOk```
+``` ?hash=aaroZmOk ```
 
 Then you will get the Flag!
 
 ![flag.png](./flag.png)
 
-###Flag
+### Flag
 
-**```OFPPT-CTF{typ3_juggl1ng_1n_php}```**
+```OFPPT-CTF{typ3_juggl1ng_1n_php}```
 
 
 
