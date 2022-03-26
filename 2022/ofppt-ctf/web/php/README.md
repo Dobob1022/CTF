@@ -36,6 +36,7 @@ if (isset($_GET['hash'])) {
 ?>
 
 ```
+![sourcecode.png](./sourcecode.png)
 
 You can find the hash must be ```10932435112``` to get flag.
 
@@ -69,6 +70,8 @@ Behind of the website address.
 ```?hash=aaroZmOk```
 
 Then you will get the Flag!
+
+![flag.png](./flag.png)
 
 ###Flag
 
