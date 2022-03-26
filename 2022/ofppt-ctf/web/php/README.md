@@ -45,7 +45,8 @@ But as you can see part of source code,
 if ($_GET['hash'] === "10932435112") {
         die('Not so easy mate.');
     }
-    ```
+```
+
 It can't use the string.
 
 This problem is using sha-1 hash.
